@@ -1,0 +1,334 @@
+@charset "UTF-8";
+body {
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: #6EDBF4;
+	font-size: large;
+}
+h1 {
+	font-family: alfa-slab-one;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	font-size: 2em;
+	padding-top: 15px;
+}
+header {
+	clear: left;
+}
+
+h3 {
+	font-family: alfa-slab-one;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 1.5em;
+	border: thick double #FF9800;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.centersection {
+	width: 85%;
+	margin-right: auto;
+	border-radius: 30px;
+	margin-left: auto;
+	color: #000000;
+	background-color: rgba(255,255,255,0.50);
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	text-transform: none;
+	text-align: left;
+	padding: 15px;
+}
+.centersectionst {
+	width: 50%;
+	margin-right: auto;
+	border-radius: 30px;
+	margin-left: auto;
+	color: #000000;
+	background-color: rgba(255,255,255,0.50);
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	text-transform: none;
+	text-align: left;
+	padding: 15px;
+}
+.centersectionst2 {
+	width: 65%;
+	margin-right: auto;
+	border-radius: 30px;
+	margin-left: auto;
+	color: #000000;
+	background-color: rgba(255,255,255,0.50);
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	text-transform: none;
+	text-align: left;
+	padding: 15px;
+}
+.centersectioncon {
+	width: 50%;
+	margin-right: auto;
+	border-radius: 30px;
+	margin-left: auto;
+	color: #000000;
+	background-color: rgba(255,255,255,0.50);
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	text-transform: none;
+	text-align: left;
+	padding: 15px;
+}
+
+.centersectionh3 {
+	text-align: center;
+	width: 65%;
+	margin-right: auto;
+	border-radius: 30px;
+	margin-left: auto;
+	color: #000000;
+	background-color: rgba(255,255,255,0.50);
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	text-transform: none;
+}
+
+nav {
+	width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.centersectionli {
+	list-style-position: inside;
+	list-style-image: none;
+	float: left;
+	margin-left: 20px;
+	border: thick double #FF9800;
+	list-style-type: none;
+	border-radius: 10px;
+	background-color: rgba(0,0,0,1.00);
+	border-spacing: 2px 2px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	width: 150px;
+	vertical-align: middle;
+	margin-right: 40px;
+	left: 50px;
+	text-align: left;
+}
+
+
+.navlistitem {
+	float: left;
+	margin: 20px;
+	border: thick double #FF9800;
+	list-style-type: none;
+	border-radius: 6px;
+	background-color: rgba(0,0,0,1.00);
+	border-spacing: 2px 2px;
+	box-shadow: 0px 0px;
+	color: #FFFFFF;
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+	padding: 5px;
+	text-align: center;
+}
+.navlistitem a {
+	color: #FFFFFF;
+	text-decoration: none;
+	float: left;
+	border-spacing: 5px 5px;
+}
+h5 {
+	font-family: alfa-slab-one;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	font-size: 1em;
+}
+.centersection img {
+	border: 10px groove #FF9800;
+	display: inline-block;
+	top: 20px;
+	bottom: 20px;
+	left: 20px;
+	right: 20px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+.centersection img2 {
+	border: 10px groove #FF9800;
+	display: inline-block;
+	top: 20px;
+	bottom: 20px;
+	left: 20px;
+	right: 20px;
+	float: right;
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.centersection div {
+	clear: left;
+	left: 5px;
+	position: relative;
+	right: 75px;
+
+}
+form div img {
+	clear: right;
+	display: inline;
+	margin-top: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+	margin-left: 10%;
+	float: right;
+}
+.fltrt {
+	float: right;
+	clear: right;
+}
+.centersectionp {
+	text-indent: 50px;
+	text-align: left;
+	clear: left;
+}
+.columns{
+	font-size: 100%;
+	width: 100%;
+	margin-right: 5px;
+	margin-left: 5px;
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+	-moz-column-gap: 5px;
+	-webkit-column-gap: 10px;
+	column-count: 3;
+	column-gap: 10px;
+}
+#myStore p img {
+	float: right;
+	padding: 10px;
+	margin-right: 125px;
+}
+.centersectioncon form img {
+	border: 1em groove #F28808;
+}
+#myCalc {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 24px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#myCalc main {
+  background-color: #444;
+}
+
+#myCalc main section {
+  width: 25%;
+  float: left;
+  text-align: center;
+  padding-top: 110px;
+  color: #fff;
+  background-repeat: no-repeat;
+  background-position: center 5px;
+  background-size: 110px 100px;
+}
+
+
+#myCalc main section.fp {
+  background-color: #ba2d2d;
+  background-image: url(../assets/images/frogPrince.jpg);
+}
+
+#myCalc main section.hg {
+  background-color: #de6615;
+  background-image: url(../assets/images/hanselAndGretel.jpg);
+}
+
+#myCalc main section.rp {
+  background-color: #efc20f;
+  background-image: url(../assets/images/rapunzel.jpg);
+}
+
+#myCalc main section.tm {
+  background-color: #36b23c;
+  background-image: url(../assets/images/travellingMusicians.jpg);
+}
+
+
+#myCalc main h4 {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: .8em;
+  letter-spacing: 1px;
+  margin: 0 0 5px 0;
+  text-transform: uppercase;
+}
+
+#myCalc main p {
+  margin: 0;
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+#myCalc form {
+  background-color: #EDED3C;
+  margin: 0;
+  padding: 10px 0px;
+}
+
+#myCalc form > div {
+  color: #fff;
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding: 10px 0 5px 0;
+}
+
+#myCalc form::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+#myCalc form h4 {
+  color: #aaa;
+  margin: 0 0 -5px 0;
+  font-size: 1.5em;
+}
+
+#myCalc form p {
+  color: #888;
+  margin: 0 0 6px 0;
+  font-size: 1em;
+}
+
+#myCalc form input[type=number] {
+  width: 50px;
+  text-align: left;
+  font-size: 1em;
+}
+
